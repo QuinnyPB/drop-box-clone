@@ -1,0 +1,19 @@
+Next.js - open source JS lib, server-side rendering, stable, built on React
+React
+TypeScript
+ESLint - Analysis tool for problematic patterns in code
+Firebase Storage - Cloud storage
+Firebase Store - NoSQL sorting
+ShadCN - A UI component lib
+TailWindCss - A css preprocessor (allows for advanced but simplified use of css)
+Clerk Authentication - A middleware authentication 3rd party service, providing authentication, authorisation and user management.
+
+Deployment process: VercelCLI
+install it into project
+"vercel login" logs in
+"vercel" begins deployment process
+Deployment attempt will fail, open link given in "Inspect" line from terminal
+copy .env.local data
+set environment variables (key/pair)
+save
+run command "vercel --prod" which begins deployment straight to production build

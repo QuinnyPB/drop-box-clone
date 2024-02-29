@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Prerequisites
+
+.env variables
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+The publishing key from clerk for next.js.
+CLERK_SECRET_KEY
+Another key provided by clerk for next.js specifically.
+
 ## Getting Started
 
 First, run the development server:
