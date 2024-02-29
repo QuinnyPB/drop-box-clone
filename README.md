@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Prerequisites
 
-.env variables
+.env vars
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
 The publishing key from clerk for next.js.
 CLERK_SECRET_KEY
